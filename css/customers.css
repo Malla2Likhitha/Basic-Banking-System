@@ -1,0 +1,105 @@
+/* Navbar*/
+
+.navbar{
+  background-color: #010724;
+}
+.logo img{
+  height: 3rem;
+  margin: 0 1.75rem;
+}
+.navbar-collapse{
+  margin: 0 1rem;
+}
+.nav-item{
+  font-size: 1.2rem;
+  color: white;
+  padding: 0 0.75rem;
+}
+.nav-item:hover{
+  font-size: 1.5rem;
+}
+
+/* Body*/
+
+#yourinfo{
+  height: auto;
+}
+#contacts{
+  height: auto;
+  padding: 4rem;
+  text-align: center;
+  font-size: 2rem;
+  background-color: #010724;
+}
+
+.infocls{
+  text-align: center;
+  padding: 3rem 4rem 1rem;
+  /* color: white; */
+  font-family: Merriweather;
+}
+.infocls h3{
+  font-size: 2.5rem;
+}
+.infocls h2{
+  font-size: 3.5rem;
+}
+.concls{
+  width: 80%;
+  color: white;
+  font-family: Gentium;
+}
+.concls h2{
+  font-size: 3rem;
+  font-family: Merriweather;
+}
+.logos{
+  margin: 1rem 0.75rem 2.25rem;
+  height: 2.25rem;
+}
+.customers{
+  height: auto;
+  width: 90%;
+  padding: 1rem 2rem 2rem;
+  font-family: Monsterrat;
+}
+.customers h2{
+  text-align: center;
+  font-size: 3rem;
+  font-family: Merriweather;
+  margin-bottom: 0.75rem;
+}
+.heading{
+  background-color: rgba(20, 60, 150, 0.5);
+}
+
+/* Buttons */
+.apply-btn{
+  margin: 2rem;
+  background-color: #000c40;
+}
+.apply-btn:hover{
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 0.8rem;
+  font-family: Georgia;
+  color: #0303a8;
+  background: white;
+  padding: 0.5rem;;
+  border: solid #0303a8 2px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.apply-btn{
+  background: #143b96;
+  border-radius: 0.8rem;
+  font-size: 1.3rem;
+  background-image: -webkit-linear-gradient(top, #143b96, #0303a8);
+  background-image: -moz-linear-gradient(top, #143b96, #0303a8);
+  background-image: -ms-linear-gradient(top, #143b96, #0303a8);
+  background-image: -o-linear-gradient(top, #143b96, #0303a8);
+  background-image: linear-gradient(to bottom, #143b96, #0303a8);
+  text-decoration: none;
+  border: solid #143b96 2px;
+  color: white;
+}
