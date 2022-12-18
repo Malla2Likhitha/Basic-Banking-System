@@ -1,0 +1,43 @@
+/* Navig */
+.nav-item{
+  font-size: 1rem;
+}
+
+/* Body */
+.titcls h1{
+  font-size: 1.4rem;
+}
+.titcls h2{
+  font-size: 1rem;
+}
+#about p{
+  font-size: 0.5rem;
+}
+.titcls h3{
+  font-size: 0.95rem;
+}
+.abtcls, .concls{
+  width: 100%;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.logos{
+  height: 1.25rem;
+  margin: 1rem 0.25rem 2.25rem;
+}
+h6{
+  font-size: 0.65rem;
+}
+#about h2{
+  font-size: 0.95rem;
+}
+#contacts h2{
+  font-size: 0.95rem;
+}
+#about{
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.btn{
+  font-size: 1rem;
+}
