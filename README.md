@@ -28,7 +28,7 @@ This is my solution to the Task-1 of GRIP_DEC22 Web Development Domain.
 - [Solution URL](https://github.com/Malla2Likhitha/Basic-Banking-System)
 - [Live Site URL](https://malla2likhitha.github.io/index.html)
 
-### Video URL()
+### Video URL(https://www.youtube.com/watch?v=WApSJ7Kxq64)
 
 ## My process
 
