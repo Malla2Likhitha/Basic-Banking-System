@@ -31,6 +31,12 @@
   font-size: 2rem;
   background-color: #010724;
 }
+#customers h2{
+  text-align: center;
+  font-size: 3rem;
+  font-family: Merriweather;
+  margin-bottom: 0.75rem;
+}
 
 .infocls{
   text-align: center;
@@ -62,12 +68,6 @@
   width: 90%;
   padding: 1rem 2rem 2rem;
   font-family: Monsterrat;
-}
-.customers h2{
-  text-align: center;
-  font-size: 3rem;
-  font-family: Merriweather;
-  margin-bottom: 0.75rem;
 }
 .heading{
   background-color: rgba(20, 60, 150, 0.5);
@@ -102,4 +102,49 @@
   text-decoration: none;
   border: solid #143b96 2px;
   color: white;
+}
+
+@media screen and (max-width: 750px){
+  .nav-item{
+    font-size: 1rem;
+  }
+  .infocls h2{
+    font-size: 1.75rem;
+  }
+  .infocls h3{
+    font-size: 1.25rem;
+  }
+  h6{
+    font-size: 0.75rem;
+  }
+  .concls{
+    width: 90%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  #customers h2{
+    font-size: 1.75rem;
+  }
+  #contacts h2{
+    font-size: 1.75rem;
+  }
+  .infocls{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 90%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+  .customers{
+    font-size: 1rem;
+  }
+  .logos{
+    height: 1.5rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+  }
+  .apply-btn{
+    font-size: 1rem;
+    margin: 0.75rem 1rem;
+  }
 }
