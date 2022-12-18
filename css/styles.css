@@ -42,7 +42,7 @@
 
 .titcls{
   text-align: center;
-  padding: 4rem;
+  padding: 4rem 0;
   color: white;
   font-family: Merriweather;
 }
@@ -56,16 +56,19 @@
   font-size: 3.5rem;
 
 }
-#about h2{
-  font-size: 3rem;
-  font-family: Merriweather;
-}
+
 .abtcls{
   width: 80%;
   color: #010724;
   font-family: Montserrat;
   font-weight: 500;
+  font-size: 1.25rem;
 }
+#about h2{
+  font-size: 3rem;
+  font-family: Merriweather;
+}
+
 .concls{
   width: 80%;
   color: white;
@@ -119,4 +122,49 @@
   background-position: center;
   background-color: rgba(20, 60, 150, 0.6);
   background-blend-mode: soft-light;
+}
+
+
+@media screen and (max-width: 750px){
+  .nav-item{
+    font-size: 1rem;
+  }
+  .titcls h3{
+    font-size: 1.75rem;
+  }
+  .titcls h2{
+    font-size: 2.25rem;
+  }
+  .titcls h1{
+    font-size: 3.25rem;
+  }
+  h6{
+    font-size: 0.75rem;
+  }
+  .abtcls, .concls{
+    width: 90%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+  #about h2{
+    font-size: 1.75rem;
+  }
+  #about p{
+    font-size: 1rem;
+  }
+  #contacts h2{
+    font-size: 1.75rem;
+  }
+  #about{
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .logos{
+    height: 1.5rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+  }
+  .btn{
+    font-size: 1rem;
+  }
 }
