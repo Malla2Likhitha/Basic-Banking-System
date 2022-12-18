@@ -19,9 +19,9 @@ This is my solution to the Task-1 of GRIP_DEC22 Web Development Domain.
 ### Screenshot
 
 ![Screenshot 1](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/assets/screenshots/Screenshot%201.PNG))
-![Screenshot 2](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/screenshots/Screenshot%202.png)
-![Screenshot 3](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/screenshots/Screenshot%203.png)
-![Screenshot 4](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/screenshots/Screenshot%204.png)
+![Screenshot 2](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/assets/screenshots/Screenshot%202.PNG)
+![Screenshot 3](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/assets/screenshots/Screenshot%203.PNG)
+![Screenshot 4](https://github.com/Malla2Likhitha/Basic-Banking-System/blob/main/assets/screenshots/Screenshot%204.PNG)
 
 ### Links
 
